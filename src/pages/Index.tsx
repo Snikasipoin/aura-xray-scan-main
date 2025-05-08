@@ -84,7 +84,7 @@ const Index = () => {
         <div className="container mx-auto px-4 flex justify-between items-center">
           <h1 className="text-xl font-bold text-center text-white flex items-center">
             <span className="w-8 h-8 rounded-full bg-medical-primary/20 flex items-center justify-center mr-2 neon-border">
-              <span className="text-medical-primary font-semibold text-sm">A</span>
+              <span className="text-medical-primary font-semibold text-sm"><img src="/favicon-32x32.png" alt="logo" /></span>
             </span>
             <span className="text-medical-primary">Aura</span> X-Ray Scan
           </h1>

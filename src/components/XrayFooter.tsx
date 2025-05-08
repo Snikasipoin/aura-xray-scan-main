@@ -20,7 +20,7 @@ const XrayFooter = ({ onReset }: { onReset: () => void }) => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <div className="flex items-center">
               <div className="w-10 h-10 rounded-full bg-medical-primary/20 flex items-center justify-center mr-3 neon-border pulse-effect">
-                <span className="text-medical-primary font-semibold text-sm">A</span>
+                <span className="text-medical-primary font-semibold text-sm"><img src="/favicon-32x32.png" alt="logo" /></span>
               </div>
               <span className="text-sm text-gray-400">AuraX-Ray Scan v1.0</span>
             </div>
