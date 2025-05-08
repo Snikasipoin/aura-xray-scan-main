@@ -1,8 +1,7 @@
 # AuraX-ray scan — веб-приложение для анализа рентгеновских снимков грудной клетки
 
 **URL**: https://
-
-<!-- ![Image alt](https://github.com/Snikasipoin/aura-xray-scan-main/blob/main/logo.png) -->
+![Image alt](https://github.com/Snikasipoin/aura-xray-scan-main/blob/main/logo.png)
 
 ## О проекте
 
